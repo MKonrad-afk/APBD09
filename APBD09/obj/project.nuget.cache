@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C/vz/enmF8Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kmark\\RiderProjects\\APBD09\\APBD09\\APBD09.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kmark\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\Kmark\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
