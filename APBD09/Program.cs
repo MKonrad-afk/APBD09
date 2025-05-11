@@ -1,3 +1,5 @@
+using APBD09.Services;
+
 namespace APBD09;
 
 public class Program
@@ -9,6 +11,8 @@ public class Program
         // Add services to the container.
         builder.Services.AddAuthorization();
         builder.Services.AddControllers();
+        builder.Services.AddScoped<IWarehouseService, WarehouseService>();
+
 
         // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
         builder.Services.AddOpenApi();
